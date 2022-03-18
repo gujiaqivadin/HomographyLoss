@@ -2,7 +2,7 @@
 
 The code will be coming soon.
 
-<!-- # Citation
+# Citation
 ```
 @InProceedings{Gu_2022_CVPR,
     title={Homogrpahy Loss for Monocular 3D Object Detection},
@@ -11,4 +11,4 @@ The code will be coming soon.
     month     = {June},
     year      = {2022},
 }
-``` -->
+```
