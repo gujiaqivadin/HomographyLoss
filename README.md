@@ -1,5 +1,5 @@
 # Homography Loss for Monocular 3D Object Detection. (CVPR 2022)
-> This repository hosts the official PyTorch implementation of the paper: "**Homography Loss for Monocular 3D Object Detection**".
+> This repository hosts the official PyTorch implementation of the paper: "[**Homography Loss for Monocular 3D Object Detection**](https://arxiv.org/abs/2204.00754)".
 
 Authors: [Jiaqi Gu](https://scholar.google.com.hk/citations?user=1Fr1paQAAAAJ&hl=zh-CN)\*, [Bojian Wu](https://scholar.google.com.hk/citations?hl=zh-CN&user=pdx6Lg8AAAAJ), [Lubin Fan](https://scholar.google.com.hk/citations?user=byG_OEIAAAAJ&hl=zh-CN&oi=ao), [Jianqiang Huang](https://scholar.google.com.hk/citations?user=UqAybqgAAAAJ&hl=zh-CN&oi=ao), Shen Cao, [Zhiyu Xiang](https://scholar.google.com.hk/citations?user=mU08eBsAAAAJ&hl=zh-CN&oi=ao), [Xian-sheng Hua](https://scholar.google.com.hk/citations?user=6G-l4o0AAAAJ&hl=zh-CN&oi=ao)
 
