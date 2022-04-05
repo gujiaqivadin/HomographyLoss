@@ -20,7 +20,7 @@ Monocular 3D object detection is an essential task in autonomous driving. Howeve
 If you find our work helpful for your research, please consider citing the following BibTeX entry.
 ```
 @InProceedings{Gu_2022_CVPR,
-    title={Homogrpahy Loss for Monocular 3D Object Detection},
+    title={Homography Loss for Monocular 3D Object Detection},
     author={Gu, Jiaqi and Wu, Bojian and Fan, Lubin and Huang, Jianqiang and Cao, Shen and Xiang, Zhiyu and Hua, Xian-Sheng},
     booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
     month     = {June},
